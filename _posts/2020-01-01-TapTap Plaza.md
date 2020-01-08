@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tap Tap Plaza
-image: /img/hello_world.jpeg
 ---
 
 ### 2019.01 ~ 2019.10
