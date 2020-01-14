@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+# Tap Tap Plaza
+### Unity Mobile Project
+### 2019.01 ~ 2019.8
+### Published at 2019.8 on Google Play
+
+[![Video Label](http://img.youtube.com/vi/LVwMEJusWXg/0.jpg)](https://www.youtube.com/watch?v=LVwMEJusWXg) 
+
+- Introduction
+	- An idle game making the plaza 
+	- asd
+- Development
+	- 
+	
+- Experience
+	- asdasd
