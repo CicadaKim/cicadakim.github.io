@@ -26,7 +26,7 @@
 > 08/2019 ~ 10/2019  
 
 #### Team : KRAFTON OCELOT
-> Role : Client Programmer
+> Role : Client Programmer  
 > There were 3 client programmers in my team
 
 ##### Introduction
@@ -36,7 +36,7 @@
 - Develop monster patterns using Behavior Tree
 	
 # ROSIE:The Planet Guardian
-> Unity Mobile Project
+###Unity Mobile Project
 > 05/2017 ~ 04/2018  
 
 #### Personal Project
