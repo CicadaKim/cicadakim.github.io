@@ -14,8 +14,8 @@
 > [public page](http://en.pnixgames.com/games/taptapplaza)
 
 ### Development
-> Develop overall client gameplay  
-> Optimizing
+- Develop overall client gameplay  
+- Optimizing
 	
 ### Experience
 > Release 
@@ -24,10 +24,10 @@
 
 #### Unity Mobile Project
 > 08/2019 ~ 10/2019  
-> There were 3 client programmers in my team
 
 #### Team : KRAFTON OCELOT
 > Role : Client Programmer
+> There were 3 client programmers in my team
 
 ### Introduction
 > Mobile One hand shooting game prototype
@@ -41,7 +41,7 @@
 
 #### Personal Project
 > Role : Client Programmer / Game Designer  
-> There were me and an artist
+> There were just me and a game artist
 
 ![gif1](/img/rosie1.gif)    
 ![gif2](/img/rosie2.gif)    
