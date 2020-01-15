@@ -10,15 +10,15 @@
 
 [![Video Label](http://img.youtube.com/vi/LVwMEJusWXg/0.jpg)](https://www.youtube.com/watch?v=LVwMEJusWXg) 
 
-### Introduction
-> [public page](http://en.pnixgames.com/games/taptapplaza)
+##### Introduction
+- [public page](http://en.pnixgames.com/games/taptapplaza)
 
-### Development
+##### Development
 - Develop overall client gameplay  
 - Optimizing
 	
-### Experience
-> Release 
+##### Experience
+- Release 
 
 # OHS Project  
 
@@ -29,11 +29,11 @@
 > Role : Client Programmer
 > There were 3 client programmers in my team
 
-### Introduction
-> Mobile One hand shooting game prototype
+##### Introduction
+- Mobile One hand shooting game prototype
 
-### Development
-> Develop monster patterns using Behavior Tree
+##### Development
+- Develop monster patterns using Behavior Tree
 	
 # ROSIE:The Planet Guardian
 > Unity Mobile Project
@@ -47,11 +47,11 @@
 ![gif2](/img/rosie2.gif)    
 ![gif3](/img/rosie3.gif)  
 
-### Introduction
-> Mobile One-Button Shooting Game
+##### Introduction
+- Mobile One-Button Shooting Game
 
-### Development
-> Design and Develop all the gameplay
+##### Development
+- Design and Develop all the gameplay
 	
 # Zombie Hunter  
 
@@ -64,11 +64,11 @@
 
 [github source](https://github.com/CicadaKim/ZombieHunter)
 
-### Introduction
-> Mobile Sideview Shooting Game
+##### Introduction
+- Mobile Sideview Shooting Game
 
-### Development
-> Develop overall client gameplay
+##### Development
+- Develop overall client gameplay
 
 # Mirror Mirror  
 
@@ -82,12 +82,12 @@
 
 [github source](https://github.com/CicadaKim/MirrorMirror)
 
-### Introduction
-> Mobile Puzzle Game
+##### Introduction
+- Mobile Puzzle Game
 
-### Development
-> Design and Develop overall gameplay
+##### Development
+- Design and Develop overall gameplay
 	
-### Experience
-> Release  
-> My first advertisement profit
+##### Experience
+- Release  
+- My first advertisement profit
