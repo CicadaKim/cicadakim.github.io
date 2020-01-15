@@ -1,7 +1,7 @@
 # Tap Tap Plaza
 #### Unity Mobile Project
-#### 01/2019 ~ 8/2019
-#### Released at 2019.8 on Google Play
+#### 01/2019 ~ 08/2019
+#### Released at 08/2019 on Google Play
 
 ##### Team : KRAFTON OCELOT
 ##### Role : Client Programmer
@@ -9,7 +9,7 @@
 [![Video Label](http://img.youtube.com/vi/LVwMEJusWXg/0.jpg)](https://www.youtube.com/watch?v=LVwMEJusWXg) 
 
 - Introduction
-	- http://en.pnixgames.com/games/taptapplaza
+	- [public page](http://en.pnixgames.com/games/taptapplaza)
 	- 
 
 - Development
@@ -33,8 +33,6 @@
 ##### Team : KRAFTON OCELOT
 ##### Role : Client Programmer
 
-[![Video Label](http://img.youtube.com/vi/LVwMEJusWXg/0.jpg)](https://www.youtube.com/watch?v=LVwMEJusWXg) 
-
 - Introduction
 	- Mobile One hand shooting game prototype
 
@@ -43,15 +41,15 @@
 	- 
 	
 # ROSIE:The Planet Guardian
-### Unity Mobile Project
-### 05/2017 ~ 04/2018
+#### Unity Mobile Project
+#### 05/2017 ~ 04/2018
 
 ##### Personal Project
 ##### Role : Client Programmer / Game Designer
 
-![] (img/rosie1.gif)
-![] (img/rosie2.gif)
-![] (img/rosie3.gif)
+![gif1](/img/rosie1.gif)  
+![gif2](/img/rosie2.gif)  
+![gif3](/img/rosie3.gif)  
 
 - Introduction
 	- Mobile One-Button Shooting Game
@@ -68,13 +66,13 @@
 	- 
 	
 # Zombie Hunter
-### Cocos2d-x Mobile Project
-### 11/2013 ~ 02/2014
+#### Cocos2d-x Mobile Project
+#### 11/2013 ~ 02/2014
 
 ##### Personal Project
 ##### Role : Client Programmer / Game Designer
 
-https://github.com/CicadaKim/ZombieHunter
+[github source](https://github.com/CicadaKim/ZombieHunter)
 
 - Introduction
 	- Mobile Sideview Shooting Game
@@ -91,13 +89,14 @@ https://github.com/CicadaKim/ZombieHunter
 	- 
 
 # Mirror Mirror
-### Android Mobile Project
-### 10/2013 ~ 11/2013
+#### Android Mobile Project
+#### 10/2013 ~ 11/2013
+#### Released at 11/2013 on Google Play
 
 ##### Personal Project
 ##### Role : Client Programmer / Game Designer
 
-https://github.com/CicadaKim/MirrorMirror
+[github source] (https://github.com/CicadaKim/MirrorMirror)
 
 
 - Introduction
