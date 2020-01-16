@@ -19,7 +19,9 @@
 	
 ##### Experience
 - Release 
-  ---  
+
+---
+  
 # OHS Project  
 
 #### Unity Mobile Project
@@ -34,7 +36,9 @@
 
 ##### Development
 - Develop monster patterns using Behavior Tree
-  ---  
+
+---
+  
 # ROSIE:The Planet Guardian
 ### Unity Mobile Project
 > 05/2017 ~ 04/2018  
@@ -52,7 +56,9 @@
 
 ##### Development
 - Design and Develop all the gameplay
-  ---  
+
+---  
+  
 # Zombie Hunter  
 
 #### Cocos2d-x Mobile Project
@@ -69,7 +75,9 @@
 
 ##### Development
 - Develop overall client gameplay
-  ---  
+
+---  
+  
 # Mirror Mirror  
 
 #### Android Mobile Project
