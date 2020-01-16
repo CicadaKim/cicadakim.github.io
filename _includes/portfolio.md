@@ -6,7 +6,7 @@
 
 #### Team : KRAFTON OCELOT
 > Role : Client Programmer  
-> There were 3~4 client programmers in my team
+> 3~4 client programmers in my team
 
 [![Video Label](http://img.youtube.com/vi/LVwMEJusWXg/0.jpg)](https://www.youtube.com/watch?v=LVwMEJusWXg) 
 
@@ -19,7 +19,7 @@
 	
 ##### Experience
 - Release 
-
+  ---  
 # OHS Project  
 
 #### Unity Mobile Project
@@ -27,16 +27,16 @@
 
 #### Team : KRAFTON OCELOT
 > Role : Client Programmer  
-> There were 3 client programmers in my team
+> 3 client programmers in my team
 
 ##### Introduction
 - Mobile One hand shooting game prototype
 
 ##### Development
 - Develop monster patterns using Behavior Tree
-	
+  ---  
 # ROSIE:The Planet Guardian
-###Unity Mobile Project
+### Unity Mobile Project
 > 05/2017 ~ 04/2018  
 
 #### Personal Project
@@ -52,7 +52,7 @@
 
 ##### Development
 - Design and Develop all the gameplay
-	
+  ---  
 # Zombie Hunter  
 
 #### Cocos2d-x Mobile Project
@@ -69,7 +69,7 @@
 
 ##### Development
 - Develop overall client gameplay
-
+  ---  
 # Mirror Mirror  
 
 #### Android Mobile Project
