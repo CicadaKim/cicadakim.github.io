@@ -1,12 +1,12 @@
-# Tap Tap Plaza  
-
+# Tap Tap Plaza
+    
 #### Unity Mobile Project
 > 01/2019 ~ 08/2019  
 > Released at 08/2019 on Google Play  
 
 #### Team : KRAFTON OCELOT
 > Role : Client Programmer  
-> 3~4 client programmers in my team
+> one of three client programmers
 
 [![Video Label](http://img.youtube.com/vi/LVwMEJusWXg/0.jpg)](https://www.youtube.com/watch?v=LVwMEJusWXg) 
 
@@ -19,11 +19,11 @@
 	
 ##### Experience
 - Release 
-
----
   
-# OHS Project  
-
+-----
+  
+# OHS Project
+    
 #### Unity Mobile Project
 > 08/2019 ~ 10/2019  
 
@@ -36,8 +36,8 @@
 
 ##### Development
 - Develop monster patterns using Behavior Tree
-
----
+  
+-----
   
 # ROSIE:The Planet Guardian
 ### Unity Mobile Project
@@ -47,17 +47,19 @@
 > Role : Client Programmer / Game Designer  
 > There were just me and a game artist
 
-![gif1](/img/rosie1.gif)    
-![gif2](/img/rosie2.gif)    
-![gif3](/img/rosie3.gif)  
-
+![gif1](/img/rosie1.gif)
+  
+![gif2](/img/rosie2.gif)
+  
+![gif3](/img/rosie3.gif)
+  
 ##### Introduction
 - Mobile One-Button Shooting Game
 
 ##### Development
 - Design and Develop all the gameplay
-
----  
+  
+-----
   
 # Zombie Hunter  
 
@@ -67,7 +69,9 @@
 #### Personal Project
 > Role : Client Programmer / Game Designer  
 > There were 3 client programmer in my team
-
+  
+![zombiehunter](/img/zombiehunter.jpg)
+  
 [github source](https://github.com/CicadaKim/ZombieHunter)
 
 ##### Introduction
@@ -75,8 +79,8 @@
 
 ##### Development
 - Develop overall client gameplay
-
----  
+  
+-----
   
 # Mirror Mirror  
 
@@ -87,7 +91,9 @@
 #### Personal Project
 > Role : Client Programmer / Game Designer  
 > There were 3 client programmer in my team
-
+  
+![mirrormirror](/img/mirrormirror.png)
+  
 [github source](https://github.com/CicadaKim/MirrorMirror)
 
 ##### Introduction
