@@ -5,8 +5,8 @@
 > Released at 08/2019 on Google Play  
 
 #### Team : KRAFTON OCELOT
-> Role : Client Programmer  
-> one of three client programmers
+> Role : Client engineer  
+> 3~4 client engineers in my team
 
 [![Video Label](http://img.youtube.com/vi/LVwMEJusWXg/0.jpg)](https://www.youtube.com/watch?v=LVwMEJusWXg) 
 
@@ -14,11 +14,13 @@
 - [public page](http://en.pnixgames.com/games/taptapplaza)
 
 ##### Development
-- Develop overall client gameplay  
+- Develop overall client gameplay
+	- 
 - Optimizing
 	
 ##### Experience
 - Release 
+- Code Review
   
 -----
   
@@ -28,8 +30,8 @@
 > 08/2019 ~ 10/2019  
 
 #### Team : KRAFTON OCELOT
-> Role : Client Programmer  
-> 3 client programmers in my team
+> Role : Client engineer  
+> 3 client engineers in my team
 
 ##### Introduction
 - Mobile One hand shooting game prototype
@@ -44,7 +46,7 @@
 > 05/2017 ~ 04/2018  
 
 #### Personal Project
-> Role : Client Programmer / Game Designer  
+> Role : Client engineer / Game Designer  
 > There were just me and a game artist
 
 ![gif1](/img/rosie1.gif)
@@ -67,10 +69,10 @@
 > 11/2013 ~ 02/2014  
 
 #### Personal Project
-> Role : Client Programmer / Game Designer  
-> There were 3 client programmer in my team
+> Role : Client engineer / Game Designer  
+> There were 3 client engineer in my team
   
-![zombiehunter](/img/zombiehunter.jpg)
+![zombiehunter](/img/zombiehunter.png)
   
 [github source](https://github.com/CicadaKim/ZombieHunter)
 
@@ -89,8 +91,8 @@
 > Released at 11/2013 on Google Play  
 
 #### Personal Project
-> Role : Client Programmer / Game Designer  
-> There were 3 client programmer in my team
+> Role : Client engineer / Game Designer  
+> There were 3 client engineer in my team
   
 ![mirrormirror](/img/mirrormirror.png)
   
