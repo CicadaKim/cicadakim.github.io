@@ -11,16 +11,20 @@
 [![Video Label](http://img.youtube.com/vi/LVwMEJusWXg/0.jpg)](https://www.youtube.com/watch?v=LVwMEJusWXg) 
 
 ##### Introduction
-- [public page](http://en.pnixgames.com/games/taptapplaza)
+- [official page](http://en.pnixgames.com/games/taptapplaza)
+- Idle game that players grow up their shopping mall
 
 ##### Development
-- Develop overall client gameplay
+- Developed overall client gameplay
+- Developed Android / iOS native features
+	- Local Notification
+	- GDPR notice
 	
 ##### Experience
-- Release 
+- Release on Google Play
 - Code Review
-- Postmotem
-- Analyze user statistics
+	- We had code review culture in the engineer team
+	- An engineer should make a pull request for a development feature and should get approved for merging it to master
   
 -----
   
@@ -37,7 +41,7 @@
 - Mobile One hand shooting game prototype
 
 ##### Development
-- Develop monster patterns using Behavior Tree
+- Developed monster patterns using Behavior Tree
   
 -----
   
@@ -57,10 +61,16 @@
   
 ##### Introduction
 - Mobile One-Button Shooting Game
+- Defence the planet against the giant plant that suddenly grew up on the middle of the planet
+- Player's character automatically fire bullets to the enemy
+- Player's character automatically move around the planet
+- Player can change the move direction (left / right) just by touch screen once
+- player can reinforce the attack power by absorbing the energy-block 
+	- energy-block is spawned around the planet and player can absorb it by standing on it a few seconds
 
 ##### Development
-- Design and Develop all the gameplay
-  
+- Designed and Developed all the gameplay
+- Developed enemy's various actions and shooting patterns
 -----
   
 # Zombie Hunter  
@@ -78,9 +88,11 @@
 
 ##### Introduction
 - Mobile Sideview Shooting Game
+- Player is chased by huge zombie truck from left of the screen
+- Player should go to the right and shoot the zombies in front of him with various weapons
 
 ##### Development
-- Develop overall client gameplay
+- Developed overall client gameplay
   
 -----
   
@@ -100,10 +112,10 @@
 
 ##### Introduction
 - Mobile Puzzle Game
+- Player should push the red button in the directions shown on the screen in time
 
 ##### Development
-- Design and Develop overall gameplay
+- Designed and Developed overall gameplay
 	
 ##### Experience
-- Release  
-- My first advertisement profit
+- Released on Google Play
