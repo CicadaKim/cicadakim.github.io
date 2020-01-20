@@ -62,6 +62,7 @@
 ##### Introduction
 - Mobile One-Button Shooting Game
 - Defence the planet against the giant plant that suddenly grew up on the middle of the planet
+  
 - Player's character automatically fire bullets to the enemy
 - Player's character automatically move around the planet
 - Player can change the move direction (left / right) just by touch screen once
@@ -71,8 +72,9 @@
 ##### Development
 - Designed and Developed all the gameplay
 - Developed enemy's various actions and shooting patterns
------
   
+-----
+    
 # Zombie Hunter  
 
 #### Cocos2d-x Mobile Project
