@@ -15,12 +15,12 @@
 
 ##### Development
 - Develop overall client gameplay
-	- 
-- Optimizing
 	
 ##### Experience
 - Release 
 - Code Review
+- Postmotem
+- Analyze user statistics
   
 -----
   
