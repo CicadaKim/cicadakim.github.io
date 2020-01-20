@@ -23,8 +23,7 @@
 ##### Experience
 - Release on Google Play
 - Code Review
-	- We had code review culture in the engineer team
-	- An engineer should make a pull request for a development feature and should get approved for merging it to master
+	- An engineer should make a pull request for a development feature and should get approval for merging it to master
   
 -----
   
