@@ -61,7 +61,6 @@
 ##### Introduction
 - Mobile One-Button Shooting Game
 - Defend the planet against the giant plant that suddenly grew up on the middle of the planet
-  
 - Player's character automatically fire bullets to the enemy
 - Player's character automatically move around the planet
 - Player can change the move direction (left / right) just by touch screen once
