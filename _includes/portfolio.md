@@ -52,6 +52,8 @@
 > Role : Client engineer / Game Designer  
 > There were just me and a game artist
 
+![bitbucket source](https://bitbucket.org/cicadakim/rosie/src/master/)
+
 ![gif1](/img/rosie1.gif)
   
 ![gif2](/img/rosie2.gif)
