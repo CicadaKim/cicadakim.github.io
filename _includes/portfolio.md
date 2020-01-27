@@ -58,7 +58,7 @@
   
 ![gif3](/img/rosie3.gif)
   
-![bitbucket source](https://bitbucket.org/cicadakim/rosie/src/master/)
+[bitbucket source](https://bitbucket.org/cicadakim/rosie/src/master/)
   
 ##### Introduction
 - Mobile One-Button Shooting Game
