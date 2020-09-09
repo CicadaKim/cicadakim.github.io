@@ -9,6 +9,7 @@
 > 프로그래밍 팀 구성 : 클라이언트 프로그래머 3명
 
 [![Video Label](http://img.youtube.com/vi/LVwMEJusWXg/0.jpg)](https://www.youtube.com/watch?v=LVwMEJusWXg) 
+(Click to Watch Video)
 
 ##### Introduction
 - [official page](http://en.pnixgames.com/games/taptapplaza)
