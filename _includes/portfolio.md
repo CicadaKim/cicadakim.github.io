@@ -2,28 +2,29 @@
     
 #### Unity Mobile Project
 > 01/2019 ~ 08/2019  
-> Released at 08/2019 on Google Play  
+> 구글 플레이에 출시 (08/2019)
 
 #### Team : KRAFTON OCELOT
-> Role : Client engineer  
-> 3~4 client engineers in my team
+> 역할 : 클라이언트 프로그래머
+> 프로그래밍 팀 구성 : 클라이언트 프로그래머 3명
 
 [![Video Label](http://img.youtube.com/vi/LVwMEJusWXg/0.jpg)](https://www.youtube.com/watch?v=LVwMEJusWXg) 
 
 ##### Introduction
 - [official page](http://en.pnixgames.com/games/taptapplaza)
-- Idle game that players grow up their shopping mall
+- 쇼핑몰을 성장시키는 Idle game
 
 ##### Development
-- Developed overall client gameplay
-- Developed Android / iOS native features
+- 전반적인 유니티 클라이언트 개발
+- 안드로이드/IOS 네이티브 피쳐 개발
 	- Local Notification
 	- GDPR notice
 	
 ##### Experience
-- Release on Google Play
-- Code Review
-	- An engineer should make a pull request for a development feature and should get approval for merging it to master
+- 구글 플레이에 출시
+	- 사용자들의 피드백과 지표 분석후 반영
+- 코드 리뷰
+	- 코드 리뷰의 일원으로 개발 문화 조성
   
 -----
   
@@ -33,24 +34,24 @@
 > 08/2019 ~ 10/2019  
 
 #### Team : KRAFTON OCELOT
-> Role : Client engineer  
-> 3 client engineers in my team
+> 역할 : 클라이언트 프로그래머
+> 프로그래밍 팀 구성 : 클라이언트 프로그래머 3명
 
 ##### Introduction
-- Mobile One hand shooting game prototype
+- 모바일 원핸드 슈팅게임. 프로토타입 개발에 참여함
 
 ##### Development
-- Developed monster patterns using Behavior Tree
+- Behavior Tree를 이용한 몬스터 패턴 구현
   
 -----
   
-# ROSIE:The Planet Guardian
+# ROSIE : The Planet Guardian
 ### Unity Mobile Project
 > 05/2017 ~ 04/2018  
 
-#### Personal Project
-> Role : Client engineer / Game Designer  
-> There were just me and a game artist
+#### 개인 프로젝트
+> 역할 : 클라이언트 프로그래머 / 기획
+> 프로그래밍 팀 구성 : 1명
 
 ![gif1](/img/rosie1.gif)
   
@@ -61,17 +62,14 @@
 [bitbucket source](https://bitbucket.org/cicadakim/rosie/src/master/)
   
 ##### Introduction
-- Mobile One-Button Shooting Game
-- Defend the planet against the giant plant that suddenly grew up on the middle of the planet
-- Player's character automatically fire bullets to the enemy
-- Player's character automatically move around the planet
-- Player can change the move direction (left / right) just by touch screen once
-- player can reinforce the attack power by absorbing the energy-block 
-	- energy-block is spawned around the planet and player can absorb it by standing on it a few seconds
+- 모바일 원버튼 슈팅 게임
+	- 거대한 보스와의 전투를 모바일에서 간단한 조작으로 구현하고자 함
+- 행성 가운데에 자라난 적을 물리쳐야함
+- 플레이어 캐릭터는 자동적으로 공격하며, 행성을 따라 한 방향으로 움직인다
+- 플레이어는 버튼을 눌러 캐릭터의 방향을 바꿀 수 있으며,적의 공격을 회피하며 행성 표면의 아이템을 모아 공격을 강화시킬 수 있다
 
 ##### Development
-- Designed and Developed all the gameplay
-- Developed enemy's various actions and shooting patterns
+- 모든 게임 플레이 기획 및 개발
   
 -----
     
@@ -80,21 +78,21 @@
 #### Cocos2d-x Mobile Project
 > 11/2013 ~ 02/2014  
 
-#### Personal Project
-> Role : Client engineer / Game Designer  
-> There were 3 client engineer in my team
+#### 개인 프로젝트
+> 역할 : 클라이언트 프로그래머 / 기획  
+> 프로그래밍 팀 구성 : 클라이언트 프로그래머 3명
   
 ![zombiehunter](/img/zombiehunter.png)
   
 [github source](https://github.com/CicadaKim/ZombieHunter)
 
 ##### Introduction
-- Mobile Sideview Shooting Game
-- Player is chased by huge zombie truck from left of the screen
-- Player should go to the right and shoot the zombies in front of him with various weapons
+- 모바일 사이드뷰 슈팅게임
+- 플레이어는 화면 왼쪽의 거대 좀비에게 쫓겨 오른쪽으로 도망친다
+- 다양한 무기를 사용해서 화면 오른쪽의 좀비들을 물리치며 도망쳐야 한다
 
 ##### Development
-- Developed overall client gameplay
+- 전반적인 게임 개발 및 기획에 참여
   
 -----
   
@@ -102,22 +100,22 @@
 
 #### Android Mobile Project
 > 10/2013 ~ 11/2013  
-> Released at 11/2013 on Google Play  
+> 구글 플레이에 출시 (11/2013)
 
-#### Personal Project
-> Role : Client engineer / Game Designer  
-> There were 3 client engineer in my team
+#### 개인 프로젝트
+> 역할 : 클라이언트 프로그래머 / 기획  
+> 프로그래밍 팀 구성 : 클라이언트 프로그래머 3명
   
 ![mirrormirror](/img/mirrormirror.png)
   
 [github source](https://github.com/CicadaKim/MirrorMirror)
 
 ##### Introduction
-- Mobile Puzzle Game
-- Player should push the red button in the directions shown on the screen in time
+- 모바일 퍼즐 게임
+- 플레이어는 시간 안에 화면에 표시된 화살표 방향대로 화면 중앙의 버튼을 밀어야 함
 
 ##### Development
-- Designed and Developed overall gameplay
+- 전반적인 게임 개발 및 기획에 참여
 	
 ##### Experience
-- Released on Google Play
+- 구글 플레이에 출시
