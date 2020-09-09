@@ -1,8 +1,8 @@
 # Tap Tap Plaza
     
 #### Unity Mobile Project
-> 01/2019 ~ 08/2019  
-> 08/2019 구글 플레이에 출시  
+> 2019.01 ~ 2019.08  
+> 2019.08 구글 플레이에 출시  
 
 #### Team : KRAFTON OCELOT
 > 역할 : 클라이언트 프로그래머  
@@ -31,7 +31,7 @@
 # OHS Project
     
 #### Unity Mobile Project
-> 08/2019 ~ 10/2019  
+> 2019.08 ~ 2019.10 
 
 #### Team : KRAFTON OCELOT
 > 역할 : 클라이언트 프로그래머  
@@ -47,7 +47,7 @@
   
 # ROSIE : The Planet Guardian
 ### Unity Mobile Project
-> 05/2017 ~ 04/2018  
+> 2017.05 ~ 2018.04  
 
 #### 개인 프로젝트
 > 역할 : 클라이언트 프로그래머 / 기획  
@@ -76,7 +76,7 @@
 # Zombie Hunter  
 
 #### Cocos2d-x Mobile Project
-> 11/2013 ~ 02/2014  
+> 2013.11 ~ 2014.02  
 
 #### 개인 프로젝트
 > 역할 : 클라이언트 프로그래머 / 기획  
@@ -99,8 +99,8 @@
 # Mirror Mirror  
 
 #### Android Mobile Project
-> 10/2013 ~ 11/2013  
-> 11/2013 구글 플레이에 출시  
+> 2013.10 ~ 2013.11  
+> 2013.11 구글 플레이에 출시  
 
 #### 개인 프로젝트
 > 역할 : 클라이언트 프로그래머 / 기획  

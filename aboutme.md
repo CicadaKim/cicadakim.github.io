@@ -4,11 +4,11 @@ title: About me
 ---
 ## Experiences
 - KRAFTON 
-	- 01.2019 ~ 현재
+	- 2019.01 ~ 현재
 	- 클라이언트 게임 프로그래머
 
 - KRAFTON
-	- 06.2018 ~ 08.2018
+	- 2018.06 ~ 2018.08
 	- 게임 기획 인턴
 
 ## EDUCATION
